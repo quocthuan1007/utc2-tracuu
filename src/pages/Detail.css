@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    flex-direction: column;
+}
+
+.container select,button{
+    width: 200px;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: rgb(230, 204, 226);
+    margin-bottom: 5px;
+}
