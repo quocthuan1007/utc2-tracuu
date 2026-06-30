@@ -11,6 +11,8 @@ export default function Home(){
   ];
 
   const hocKi = [
+    { label: "Học kì 2 2025-2026", value: "2025_2026_2" },
+    { label: "Học kì 1 2025-2026", value: "2025_2026_1" },
     { label: "Học kì 2 2024-2025", value: "2024_2025_2" },
     { label: "Học kì 1 2024-2025", value: "2024_2025_1" },
     { label: "Học kì 2 2023-2024", value: "2023_2024_2" },
